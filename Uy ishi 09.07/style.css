@@ -1,0 +1,107 @@
+ body{
+    background-color: rgb(224, 224, 138);
+ }
+ section h2{
+    background-color: grey;
+    text-align: center;
+    font-size: 70px;
+ }
+ 
+ .main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .main img {
+    width: 700px;
+ }
+
+ .table1 {
+    font-size: 40px;
+    height: 450px;
+    border-collapse: separate;
+    border-spacing: 13px 13px;
+ }
+.main1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main1 img {
+    width: 700px;
+}
+  .table2 {
+    font-size: 40px;
+    height: 450px;
+    border-collapse: separate;
+    border-spacing: 13px 13px;
+    
+}
+.table{
+    font-size: 40px;
+    height: 450px;
+    border-collapse: separate;
+    border-spacing: 13px 13px; 
+}
+
+ .web {
+     padding: 70px; 
+    font-size: 40px;
+
+ }
+
+ .main2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .main2 img {
+    width: 700px;
+ }
+
+ .table3{
+    font-size: 40px;
+    height: 450px;
+    border-collapse: separate;
+    border-spacing: 13px 13px;
+ }
+ 
+ .main3{
+   
+        display: flex;
+        align-items: center;
+        justify-content: center;
+ }
+ .main3 img{
+    width: 700px;  
+ }
+ .table4{
+    font-size: 40px;
+    height: 450px;
+    border-collapse: separate;
+    border-spacing: 13px 13px;
+ }
+ 
+ 
+
+ 
+ header h1{
+    background-color: rgb(183, 216, 17);
+    text-align: center;
+    font-size: 70px;
+}
+
+th{
+    background-color: black;
+    color: rgb(245, 148, 13);
+}
+td{
+    background-color: rgb(231, 220, 220);
+    color: black;
+}
+
+img{
+    padding: 100px;
+    margin: 50px;
+}
